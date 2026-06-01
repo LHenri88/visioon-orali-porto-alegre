@@ -26,6 +26,7 @@ export const CLINIC = {
     "History",
     "Procedures",
     "Doctor",
+    "Gallery",
     "Simulator",
     "Testimonials",
     "Schedule",
@@ -49,19 +50,19 @@ export const CLINIC = {
       "id": "implante-dentario",
       "name": "Implante Dentário",
       "desc": "Solução completa para reabilitação oral.",
-      "img": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800"
+      "img": "https://orali.com.br/wordpress/IMAGEM/implante-dentario.jpg"
     },
     {
       "id": "facetas-porcelana",
       "name": "Facetas & All-on-Four",
       "desc": "Estética dental e reabilitação completa em arco.",
-      "img": "https://images.unsplash.com/photo-1601068275775-5d35e75f4b13?w=800"
+      "img": "https://orali.com.br/wordpress/IMAGEM/All-on-Four.jpg"
     },
     {
       "id": "clareamento",
       "name": "Clareamento Dental",
       "desc": "Sorriso mais branco e brilhante em protocolo clínico.",
-      "img": "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?w=800"
+      "img": "https://orali.com.br/wordpress/IMAGEM/Clareamento-Dental.jpg"
     }
   ],
   "history": {
@@ -104,6 +105,27 @@ export const CLINIC = {
       "text": "Adriana, na minha opinião, é imbatível como dentista!",
       "author": "Ricardo Moreira"
     }
-  ]
+  ],
+  "images": {
+    "hero": "https://orali.com.br/wordpress/IMAGEM/2-google-GMN-1200x1200.jpg",
+    "procedures": {
+      "implante-dentario": "https://orali.com.br/wordpress/IMAGEM/implante-dentario.jpg",
+      "facetas-porcelana": "https://orali.com.br/wordpress/IMAGEM/All-on-Four.jpg",
+      "clareamento": "https://orali.com.br/wordpress/IMAGEM/Clareamento-Dental.jpg"
+    },
+    "testimonials": {
+      "Andre Lumertz": "https://orali.com.br/wordpress/IMAGEM/Andre-Lumertz.jpg",
+      "Carla Fabbrin": "https://orali.com.br/wordpress/IMAGEM/Carla-Fabbrin.jpg",
+      "Ricardo Moreira": "https://orali.com.br/wordpress/IMAGEM/Ricardo-Moreira.jpg"
+    },
+    "insta_feed": [
+      "https://orali.com.br/wordpress/IMAGEM/insta/INSTA-011.jpg",
+      "https://orali.com.br/wordpress/IMAGEM/insta/INSTA-021.jpg",
+      "https://orali.com.br/wordpress/IMAGEM/insta/INSTA-031.jpg",
+      "https://orali.com.br/wordpress/IMAGEM/insta/INSTA-041.jpg",
+      "https://orali.com.br/wordpress/IMAGEM/insta/INSTA-05.jpg",
+      "https://orali.com.br/wordpress/IMAGEM/insta/INSTA-06.jpg"
+    ]
+  }
 } as const;
 export type ClinicConfig = typeof CLINIC;
