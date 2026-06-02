@@ -1,0 +1,1101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <!-- Meta tags essenciais para SEO -->
+    <meta charset="UTF-8">
+    <meta http-equiv="content-language" content="pt-BR">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />    
+    <meta name="description" content="Especializada em implante dentário, clareamento dental, ortodontia, tratamento de canal, Invisalign e muito mais. Agende sua consulta e cuide da sua saúde bucal com profissionais qualificados. Orali Clínica Odontológica Dentista em Porto Alegre">
+    <meta name="keywords" content="clínica odontológica, dentista Porto Alegre, implante dentário, clareamento dental, ortodontia, tratamento de canal, Invisalign, bruxismo, All on Four, dentista clínico geral, gengivite, dentadura, prótese dentária, facetas de porcelana, lentes de contato dentais, odontologia estética, saúde bucal, dentista especializado, consulta odontológica, dentadura">
+    <meta name="author" content="Orali Clínica Odontológica Dentista em Porto Alegre">
+    
+    
+    
+<meta property="og:locale"content="pt_BR">
+<meta property="og:type"content="website">
+<meta property="og:title"content="Orali Clínica Odontológica Dentista em Porto Alegre">
+<meta property="og:description"content="Tratamento de Canal, Implante, ALL on FOUR, Prótese Dentária, Clareamento Dental e mais. Agende sua consulta! Dentista em Porto Alegre.">
+<meta property="og:url"content="https://orali.com.br/">
+<meta property="og:site_name"content="Orali Clínica Odontológica Dentista em Porto Alegre">
+<meta property="article:modified_time"content="2025-02-11T01:19:57+00:00">
+<meta property="og:image"content="https://orali.com.br/IMAGEM/adriana-900x473.jpg">
+<meta property="og:image:width"content="900">
+<meta property="og:image:height"content="473">
+<meta property="og:image:type"content="image/jpeg">
+<meta property="article:tag"content="Orali, clínica, odontológica, dentista, Porto Alegre, tratamentos, implante, ALL on FOUR, prótese, dentária, clareamento, dental, agende, consulta, dentadura"> 
+
+
+
+   
+
+    <!-- Título otimizado para SEO -->
+    <title>Orali Clínica Odontológica | Dentista em Porto Alegre</title>
+
+    <!-- Favicon para identificação visual -->
+    <link rel="icon" type="image/png" href="IMAGEM/ico/favicon-32x32.png">
+	<link rel="canonical" href="https://orali.com.br/" />
+    
+    <link rel="icon" type="image/png" href="IMAGEM/ico/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/svg+xml" href="IMAGEM/ico/favicon.svg" />
+	<link rel="shortcut icon" href="IMAGEM/ico/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="IMAGEM/ico/apple-touch-icon.png" />
+	<meta name="apple-mobile-web-app-title" content="Orali" />
+	<link rel="manifest" href="IMAGEM/ico/site.webmanifest" />
+
+<!-- Dados Estruturados "@type": "Dentist"-->
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Dentist","name":"Orali Clínica Odontológica | Dentista em Porto Alegre","image":"https://orali.com.br/IMAGEM/adriana-900x473.jpg","description":"Orali Clínica Odontológica | Dentista em Porto Alegre: Especializada em implante dentário, clareamento dental, ortodontia, tratamento de canal, Invisalign e muito mais. Agende sua consulta e cuide da sua saúde bucal com profissionais qualificados.","address":{"@type":"PostalAddress","streetAddress":"Av. Benjamin Constant, 904/801","addressLocality":"Porto Alegre","addressRegion":"RS","postalCode":"90550-002","addressCountry":"BR"},"geo":{"@type":"GeoCoordinates","latitude":"-30.0100366419137","longitude":"-51.19244556864312"},"telephone":"+555133423074","email":"gestor.orali@gmail.com","url":"https://orali.com.br/","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"12:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"13:00","closes":"18:00"}],"priceRange":"$$","paymentAccepted":["Cash","Credit Card"],"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":"50","bestRating":"5","worstRating":"1"},"sameAs":["https://www.facebook.com/oraliodontologiaestetica","https://www.instagram.com/orali_odontologia"]}</script>
+
+
+<!-- Dados Estruturados "@type": "LocalBusiness-->
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"LocalBusiness","name":"Orali Clínica Odontológica | Dentista em Porto Alegre","image":"https://orali.com.br/IMAGEM/adriana-900x473.jpg","description":"Orali Clínica Odontológica | Dentista em Porto Alegre: Especializada em implante dentário, clareamento dental, ortodontia, tratamento de canal, Invisalign e muito mais. Agende sua consulta e cuide da sua saúde bucal com profissionais qualificados.","address":{"@type":"PostalAddress","streetAddress":"Av. Benjamin Constant, 904/801","addressLocality":"Porto Alegre","addressRegion":"RS","postalCode":"90550-002","addressCountry":"BR"},"geo":{"@type":"GeoCoordinates","latitude":"-30.0100366419137","longitude":"-51.19244556864312"},"telephone":"+555133423074","email":"gestor.orali@gmail.com","url":"https://orali.com.br/","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"12:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"13:00","closes":"18:00"}],"priceRange":"$$","paymentAccepted":["Cash","Credit Card"],"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":"50","bestRating":"5","worstRating":"1"},"sameAs":["https://www.facebook.com/oraliodontologiaestetica","https://www.instagram.com/orali_odontologia"]}</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TZPV7QW');</script>
+<!-- End Google Tag Manager -->
+
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+
+    <!-- CSS personalizado -->
+    <style>
+/* Estilos globais */
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #333; /* Cor de texto principal */
+    background-color: #ffffff; /* Fundo branco */
+}
+
+/* Navbar (Cabeçalho) */
+.navbar {
+    background: #344f73 !important; /* Azul principal */
+    padding: 15px 0;
+}
+
+.navbar-brand img {
+    height: 50px; /* Altura da logo */
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff !important; /* Texto branco */
+    font-weight: 500;
+    margin: 0 10px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ffd700 !important; /* Amarelo no hover */
+}
+
+/* Seção Hero (Destaque) */
+
+
+/* Títulos das seções */
+.section-title {
+    color: #0077b6; /* Azul principal */
+    font-weight: 700;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/* Cards de serviços */
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.card img {
+    border-radius: 10px 10px 0 0;
+}
+
+.card-title {
+    color: #0077b6; /* Azul principal */
+    font-weight: 600;
+}
+
+.btn-primary {
+    background: #0077b6; /* Azul principal */
+    border: none;
+    padding: 10px 20px;
+    font-weight: 500;
+    color: #ffffff; /* Texto branco */
+}
+
+.btn-primary:hover {
+    background: #005f8a; /* Azul mais escuro no hover */
+}
+
+/* Seção de Avaliações */
+.reviews {
+    background: #f8f9fa; /* Fundo cinza claro */
+    padding: 60px 0;
+}
+
+.review-card {
+    background: #ffffff; /* Fundo branco */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.review-card img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+.review-card .stars {
+    color: #ffd700; /* Amarelo para as estrelas */
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.review-card .review-text {
+    font-style: italic;
+    color: #555555; /* Cinza para o texto da avaliação */
+}
+
+/* Seção de Contato */
+.contact {
+    background: #ffffff; /* Fundo branco */
+    padding: 60px 0;
+}
+
+.map-container {
+    margin-top: 30px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Rodapé */
+footer {
+    background: #182836; /* Azul escuro */
+    color: #ffffff; /* Texto branco */
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer a {
+    color: #ffd700; /* Amarelo para links */
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #ffffff; /* Branco no hover */
+}
+
+
+
+/* Estilo personalizado para os botões do carrossel */
+#reviewCarousel {min-height:330px;}
+.carousel-control-prev,
+.carousel-control-next {
+    background-color: #344f73; /* Nova cor */
+    width: 40px; /* Largura do botão */
+    height: 40px; /* Altura do botão */
+    border-radius: 50%; /* Deixa o botão redondo */
+    top: 130px; /* 50% Centraliza verticalmente */
+    transform: translateY(-50%); /* Ajuste fino para centralização */
+    opacity: 0.8; /* Transparência */
+	
+}
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+    background-color: #2a3f5d; /* Cor mais escura no hover */
+    opacity: 1; /* Remove a transparência no hover */
+}
+
+/* Ícones dos botões (setas) */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: brightness(0) invert(1); /* Transforma o ícone em branco */
+}
+
+
+.voltar-ao-topo {
+            position: fixed;
+            bottom: 2em;
+            right: 2em;
+            text-decoration: none;
+            color: white;
+            background-color: rgba(0, 0, 0, 0.3);
+            font-size: 10px;
+            padding: 1em;
+			display:none;	
+			border-radius: 50%; /* Deixa o botão redondo */
+
+			
+        }
+        .voltar-ao-topo:hover {
+            background-color: rgba(0, 0, 0, 0.4);
+			
+        }
+.voltar-ao-topo img {
+	width:25px;
+	height:auto;
+	opacity : 0.5;
+}
+.voltar-ao-topo img:hover {
+	opacity : 1;
+}
+
+.copyright-amor a {
+	color:#FFF;	
+}
+.copyright-amor img{
+	width:16px;
+	height:auto;	
+}
+
+		@keyframes pulse { /* EFEITO PARA PULSAR O BOTAO DO WHATSAPP*/
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+        #b_whats {
+            position: fixed;
+            bottom: 80px;
+            right: 0;
+            padding: 10px;
+            z-index: 10000000;
+			animation: pulse 1s infinite;/* EFEITO PARA PULSAR O BOTAO DO WHATSAPP*/
+        }
+
+    /* Seção Hero (Destaque) */
+
+.hero {
+    /*background: #0077b6; /* Fundo azul para a seção */
+    padding: 90px 0; /* Aumentei o espaçamento interno */
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 30px; /* Aumentei o espaçamento abaixo do título */
+}
+.hero span {
+    font-size: 3.5rem;
+    font-weight: 700;
+    /*margin-bottom: 30px; /* Aumentei o espaçamento abaixo do título */
+	color: #0077b6; 
+}
+
+.hero p {
+    font-size: 1.2rem;
+    line-height: 1.8; /* Aumentei a altura da linha */
+    max-width: 100%; /* Largura máxima do texto */
+    margin-bottom: 0; /* Removi a margem inferior do parágrafo */
+	
+}
+
+.hero img {
+    max-width: 100%; /* Garante que a imagem não ultrapasse o container */
+    height: auto; /* Mantém a proporção da imagem */
+    border-radius: 10px; /* Bordas arredondadas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); /* Sombra suave */
+	
+}
+.doido{
+	color:#000!important;
+	background-color:RGBA(248,249,250,var(--bs-bg-opacity,1))!important;
+}
+
+
+        /* Carousel Instagram */
+        .Carousel_Insta {
+            overflow: hidden;
+            position: relative;
+        }
+
+        .Carousel_Insta-inner {
+            display: flex;
+            transition: transform 0.5s ease;
+        }
+
+        .Carousel_Insta-item {
+            flex: 0 0 100%;
+            max-width: 95%;
+            padding: 0 10px;
+            box-sizing: border-box;
+			
+        }
+		.Carousel_Insta-item img {
+		box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);	
+		}
+
+        .Carousel_Insta-image {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            object-fit: cover;
+        }
+
+        /* Controles de navegação Instagram*/
+        .Carousel_Insta-control {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background: rgba(0,0,0,0.5);
+            border: none;
+            color: white;
+            padding: 10px;
+            cursor: pointer;
+            z-index: 1;
+        }
+
+        .Carousel_Insta-control.prev {
+            left: 10px;
+        }
+
+        .Carousel_Insta-control.next {
+            right: 10px;
+        }
+
+        /* Responsividade */
+
+
+        @media (min-width: 768px) {
+            .Carousel_Insta-item {
+                flex: 0 0 100%;
+                max-width: 100%;
+            }
+			
+        }
+
+        @media (max-width: 639px) {
+            .Carousel_Insta-item {
+                flex: 0 0 100%;
+                max-width: 100%;
+            }
+		
+        }
+		
+		@media (max-width: 488px) {
+		#reviewCarousel {min-height:480px;}		
+		}
+		@media screen and (min-width:489px) and (max-width: 767px) {
+		#reviewCarousel {min-height:420px;}	
+			
+		}
+		@media screen and (min-width:768px) and (max-width:991px){
+		#reviewCarousel {min-height:355px;}	
+		}
+		
+        .accordion-button {
+            font-weight: bold; /* Deixa as perguntas em negrito */
+            color: #0077b6; /* Cor azul principal */
+        }
+        .accordion-button:not(.collapsed) {
+            background-color: #f8f9fa; /* Fundo claro quando expandido */
+            color: #023e8a; /* Cor azul escuro quando expandido */
+        }
+        .accordion-body {
+            color: #333; /* Cor do texto das respostas */
+        }
+		
+		
+		
+.navbar-social {
+    margin-left: auto; /* Alinha os ícones à direita */
+    padding: 10px 0; /* Espaçamento interno */
+}
+
+.navbar-social .nav-link {
+    padding: 0 10px; /* Espaçamento entre os ícones */
+}
+
+.navbar-social img {
+    transition: opacity 0.3s ease; /* Efeito de transição suave */
+}
+
+.navbar-social img:hover {
+    opacity: 0.7; /* Efeito de hover nos ícones */
+}
+
+    </style>
+</head>
+<body>
+
+    <!-- INICIO Menu de navegação -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container">
+        <!-- Logo da marca -->
+        <a class="navbar-brand" href="#home">
+            <img src="IMAGEM/footer-logo2.png" alt="Orali Clínica Odontológica Dentista em Porto Alegre">
+        </a>
+
+        <!-- Botão do menu hamburguer -->
+        <button id="hamburger" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Menu de navegação -->
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item"><a class="nav-link" href="#home">Início</a></li>
+                <li class="nav-item"><a class="nav-link" href="#tratamentos">Tratamentos</a></li>
+                <li class="nav-item"><a class="nav-link" href="#sobre">Sobre Nós</a></li>
+                <li class="nav-item"><a class="nav-link" href="#contato">Contato</a></li>
+            </ul>
+
+            <!-- Ícones das redes sociais (como "footer" do navbar) -->
+            <div class="navbar-social ms-auto d-flex align-items-center">
+                <a href="https://www.instagram.com/orali_odontologia" target="_blank" class="nav-link">
+                    <img src="IMAGEM/instagram-icon.png" alt="Instagram" width="24" height="24">
+                </a>
+                <a href="https://www.facebook.com/oraliodontologiaestetica" target="_blank" class="nav-link">
+                    <img src="IMAGEM/facebook-icon.png" alt="Facebook" width="24" height="24">
+                </a>
+                <a href="https://oraliodontologia.blogspot.com/?zx=18425642db984b5b" target="_blank" class="nav-link">
+                    <img src="IMAGEM/blogger-icon.png" alt="Facebook" width="24" height="24">
+                </a>
+            </div>
+        </div>
+    </div>
+</nav>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const navbarNav = document.getElementById('navbarNav');
+    const hamburger = document.getElementById('hamburger');
+
+    // Fecha o menu quando o usuário clica fora dele
+    document.addEventListener('click', function(event) {
+        const isClickInsideMenu = navbarNav.contains(event.target); // Verifica se o clique foi dentro do menu
+        const isClickOnHamburger = hamburger.contains(event.target); // Verifica se o clique foi no botão do menu
+
+        // Se o clique foi fora do menu e fora do botão do menu, fecha o menu
+        if (!isClickInsideMenu && !isClickOnHamburger) {
+            const bsCollapse = new bootstrap.Collapse(navbarNav, {
+                toggle: false
+            });
+            bsCollapse.hide();
+        }
+    });
+});
+</script>
+    <!-- FIM Menu de navegação -->
+
+<div style=" display:none;">
+<h1>Orali Clínica Odontológica Dentista em Porto Alegre</h1>
+<h2>Implante Dentário, Clareamento Dental, Ortodontia Convencional</h2>
+<h2>Invisalign, Tratamento de Canal, Bruxismo</h2>
+<h2>All on Four, Dentista Clínico Geral, Gengivite</h2>
+<h2>Dentadura, Próteses Dentária, Prótese total, Prótese parcial removível, Prótese fixa, Prótese unitária</h2>
+<h2>Dentista em Porto Alegre</h2>
+<h3>Implante Dentário em Porto Alegre</h3>
+<h4>All on Four em Porto Alegre</h4>
+</div> 
+
+
+				
+
+
+    <section class="hero doido" id="home">
+    <div class="container">
+        <div class="row align-items-center" >
+            <!-- Coluna da Imagem -->
+            <div class="col-md-6" style="padding-bottom:40px;">
+                <img src="IMAGEM/2-google-GMN-1200x1200.jpg" alt="Orali Clínica Odontológica Dentista em Porto Alegre" class="img-fluid rounded">
+            </div>
+            <!-- Coluna do Texto -->
+            <div class="col-md-6" style="text-align:center">
+                <span class="display-4 mb-4" >Um sorriso saudável começa aqui!</span> <!-- Adicionei mb-4 para espaçamento -->
+                <p class="lead" style="margin-top:40px"> <!-- Aumentei a altura da linha -->
+                    A Orali Clínica Odontológica possui uma equipe multidisciplinar e especializada, comprometida em ajudar o paciente a descobrir os melhores procedimentos para cada tipo de complicação odontológica. Referência em implante dentário, clareamento dental, aparelho ortodôntico, prótese dentária, facetas de porcelana, lentes de contato dentais e odontologia estética.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    <!-- Seção de Tratamentos -->
+    <section class="services container py-5" id="tratamentos">
+        <h2 class="section-title display-5">Nossos Tratamentos</h2>
+        <div class="row">
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img loading="lazy" src="IMAGEM/implante-dentario.jpg" class="card-img-top" alt="Implante Dentário">
+                    <div class="card-body">
+                        <h5 class="card-title">Implante Dentário</h5>
+                        <p class="card-text">Solução completa para reabilitação oral.</p>
+                        <a href="implante-dentario-porto-alegre.html" class="btn btn-primary">Saiba mais</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img loading="lazy" src="IMAGEM/Clareamento-Dental.jpg" class="card-img-top" alt="Clareamento Dental">
+                    <div class="card-body">
+                        <h5 class="card-title">Clareamento Dental</h5>
+                        <p class="card-text">Deixe seu sorriso mais branco e brilhante.</p>
+                        <a href="clareamento-dental-porto-alegre.html" class="btn btn-primary">Saiba mais</a>
+                    </div>
+                </div>
+            </div>
+           <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img loading="lazy" src="IMAGEM/All-on-Four.jpg" class="card-img-top" alt="All on Four">
+                    <div class="card-body">
+                        <h5 class="card-title">All on Four</h5>
+                        <p class="card-text">Técnica que permite que um arco completo de dentes seja substituído.</p>
+                        <a href="implante-all-on-four.html" class="btn btn-primary">Saiba mais</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+<!-- INICIO SEGUNDA LINHA TRATAMENTOS --> 
+<div class="row">
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img loading="lazy" src="IMAGEM/Invisalign.jpg" class="card-img-top" alt="Invisalign">
+                    <div class="card-body">
+                        <h5 class="card-title">Alinhador</h5>
+                        <p class="card-text">Alinhador é o aparelho ortodôntico mais avançado do mundo.</p>
+                        <a href="alinhador-aparelho-ortodontico-porto-alegre.html" class="btn btn-primary">Saiba mais</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img loading="lazy" src="IMAGEM/Tratamento-de-Canal.jpg" class="card-img-top" alt="Tratamento de Canal">
+                    <div class="card-body">
+                        <h5 class="card-title">Tratamento de Canal</h5>
+                        <p class="card-text">Os tratamentos mais comuns na Endodontia são os de canal.</p>
+                        <a href="tratamento-de-canal-porto-alegre.html" class="btn btn-primary">Saiba mais</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img loading="lazy" src="IMAGEM/bruxismo.jpg" class="card-img-top" alt="bruxismo">
+                    <div class="card-body">
+                        <h5 class="card-title">Bruxismo</h5>
+                        <p class="card-text">Desordem que se caracteriza pelo ranger ou apertar dos dentes.</p>
+                        <a href="tratamento-de-bruxismo-porto-alegre.html" class="btn btn-primary">Saiba mais</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<!-- FIM SEGUNDA LINHA TRATAMENTOS -->  
+
+<!-- INICIO TERCEIRA LINHA TRATAMENTOS -->    
+<div class="row">
+            
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img loading="lazy" src="IMAGEM/Dentista-Clinico-Geral.jpg" class="card-img-top" alt="Dentista Clínico Geral">
+                    <div class="card-body">
+                        <h5 class="card-title">Dentista Clínico Geral</h5>
+                        <p class="card-text">Prevenção, diagnóstico e tratamento de diversas condições.</p>
+                        <a href="dentista-clinico-geral-porto-alegre.html" class="btn btn-primary">Saiba mais</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img loading="lazy" src="IMAGEM/Gengivite.jpg" class="card-img-top" alt="Gengivite">
+                    <div class="card-body">
+                        <h5 class="card-title">Gengivite</h5>
+                        <p class="card-text">Doenças podem acometer a boca, os dentes, a gengiva e os ossos.</p>
+                        <a href="tratamento-de-gengivite-porto-alegre.html" class="btn btn-primary">Saiba mais</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<!-- FIM TERCEIRA LINHA TRATAMENTOS -->  
+        
+        
+    </section>
+
+    <!-- Seção Sobre Nós -->
+    <section class="about bg-light py-5" id="sobre">
+        <div class="container">
+            <h2 class="section-title display-5">Sobre Nós</h2>
+            <p class="lead text-center">Há mais de 30 anos cuidando da saúde bucal de Porto Alegre, a Orali Clínica Odontológica oferece tratamentos modernos e personalizados, com foco no bem-estar e na satisfação dos nossos pacientes. Nossa equipe é formada por profissionais altamente qualificados, prontos para proporcionar o melhor atendimento em um ambiente acolhedor e tecnológico. Responsável Técnico Dra. Adriana B. Martins - CRO-RS 10092</p>
+        </div>
+    </section>
+
+    <!-- Seção de Avaliações do Google -->
+    <section class="reviews" id="reviews">
+        <div class="container" >
+            <h2 class="section-title display-5">Avaliações dos Nossos Pacientes no Google</h2>
+            	<div align="center" style="margin-bottom:20px;"><p style="font-size:1.8rem;"><strong>EXCELENTE</strong></p>
+                <br><p style="font-size:2.4rem; margin-top:-45px; color:#ffd700;">★★★★★</p>
+                <p style="font-size:1.4rem; margin-top:-15px;">Com base em <strong>avaliações</strong></p><br>
+                <img loading="lazy" decoding="async" class="ti-logo-fb" src="https://cdn.trustindex.io/assets/platform/Google/logo.svg" loading="lazy" alt="Google" width="250" height="55" style="margin-top:-35px;"/></div>
+            <div id="reviewCarousel" class="carousel slide" data-bs-ride="carousel" >
+  <div class="carousel-inner" style="padding-left:45px; padding-right:45px; padding-bottom:15px;">
+                    <!-- Avaliação 1 -->
+                    <div class="carousel-item active" onclick="window.open('https://maps.app.goo.gl/tG1KnKbjP9NQtZws6', '_blank')" style="cursor:pointer;">
+                        <div class="review-card">
+                            <img loading="lazy" style="position: absolute;" src="IMAGEM/Andre-Lumertz.jpg" alt="André Lumertz">
+                            <img loading="lazy" style="position:relative; max-width:30px; max-height:30px; margin-top:55px; margin-left:50px;" src="IMAGEM/logo-google-2.png" alt="google">
+                            <div class="stars">
+                                ★★★★★
+                            </div>
+                            <p class="review-text">"Fui muito bem atendido, muito profissionalismo."</p>
+                            <p><strong>Andre Lumertz</strong></p>
+                        </div>
+                    </div>
+                    <!-- Avaliação 2 -->
+                    <div class="carousel-item" onclick="window.open('https://maps.app.goo.gl/t3tUZmnx32PwWT2M7', '_blank')" style="cursor:pointer;">
+                        <div class="review-card">
+                            <img loading="lazy" style="position: absolute;" src="IMAGEM/Carla-Fabbrin.jpg" alt="André Lumertz">
+                            <img loading="lazy" style="position:relative; max-width:30px; max-height:30px; margin-top:55px; margin-left:50px;" src="IMAGEM/logo-google-2.png" alt="google">
+                            <div class="stars">
+                                ★★★★★
+                            </div>
+                            <p class="review-text">"Quero agradecer a dr Adriana e sua equipe pelo carinho e atenção e principalmente pelo meu  aparelho anti ronco que mudou a qualidade do meu sono ,hoje posso dizer que consigo dormir bem 🙏🙏🙏.
+Obrigada  🥰🥰🥰"</p>
+                            <p><strong>Carla Fabbrin</strong></p>
+                        </div>
+                    </div>
+                    <!-- Avaliação 3 -->
+                    <div class="carousel-item" onclick="window.open('https://maps.app.goo.gl/aX6L3v8Crq6CJHYn8', '_blank')" style="cursor:pointer;">
+                        <div class="review-card">
+                            <img loading="lazy" style="position: absolute;" src="IMAGEM/Ricardo-Moreira.jpg" alt="André Lumertz">
+                            <img loading="lazy" style="position:relative; max-width:30px; max-height:30px; margin-top:55px; margin-left:50px;" src="IMAGEM/logo-google-2.png" alt="google">
+                            <div class="stars">
+                                ★★★★★
+                            </div>
+                            <p class="review-text">"Adriana, na minha opinião,  é imbatível como dentista! Toda a equipe é  sensacional, mas essa dentista é inigualável"</p>
+                            <p><strong>Ricardo Moreira</strong></p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Controles do Carrossel -->
+<button class="carousel-control-prev" type="button" data-bs-target="#reviewCarousel" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Anterior</span>
+                </button>
+<button class="carousel-control-next" type="button" data-bs-target="#reviewCarousel" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Próximo</span>
+                </button>
+            </div>
+        </div>
+    </section>
+    
+    
+    
+    <!-- Seção do Feed do Instagram -->
+    <!-- Seção do Feed do Instagram -->
+    <!-- Seção do Carrossel -->
+    
+     <!-- CSS personalizado Seção do Carrossel-->
+    <style>
+
+    </style>
+    
+    <!-- Seção do Carrossel -->
+        <!-- Seção do Carrossel -->
+            <section class="container my-5">
+    <h2 class="section-title display-5">Siga-nos no Instagram</h2>
+    
+    <p style="text-align:center;"><a href="https://www.instagram.com/orali_odontologia/" target="_blank">
+    <img loading="lazy" style="max-width:50%;" src="IMAGEM/logo-instagram-orali.png" alt="Dendista em Porto Alegre">
+    </a></p>
+    
+    <div class="Carousel_Insta">
+        <div class="Carousel_Insta-inner slide" data-bs-ride="carousel">
+            <!-- Item 1-4 -->
+            <div class="Carousel_Insta-item">
+                <div class="row">
+                    <div class="col-12 col-sm-6 col-md-3 mb-4"><a href="https://www.instagram.com/p/DVLvcHhgCpm" target="_blank"><img loading="lazy" src="IMAGEM/insta/INSTA-011.jpg" class="Carousel_Insta-image" alt="Dendista em Porto Alegre"></a></div>
+                    <div class="col-12 col-sm-6 col-md-3 mb-4">
+                        <a href="https://www.instagram.com/p/DTQRC6lAOzk/" target="_blank">
+                            <img loading="lazy" src="IMAGEM/insta/INSTA-021.jpg" class="Carousel_Insta-image" alt="Dendista em Porto Alegre">
+                        </a>
+                    </div>
+                    <div class="col-12 col-sm-6 col-md-3 mb-4">
+                        <a href="https://www.instagram.com/p/DTLGst3gHoJ" target="_blank">
+                            <img loading="lazy" src="IMAGEM/insta/INSTA-031.jpg" class="Carousel_Insta-image" alt="Dendista em Porto Alegre">
+                        </a>
+                    </div>
+                    <div class="col-12 col-sm-6 col-md-3 mb-4">
+                        <a href="https://www.instagram.com/p/DElD4lOy4nf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">
+                            <img loading="lazy" src="IMAGEM/insta/INSTA-041.jpg" class="Carousel_Insta-image" alt="Dendista em Porto Alegre">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Item 5-8 -->
+            <div class="Carousel_Insta-item">
+                <div class="row">
+                    <div class="col-12 col-sm-6 col-md-3 mb-4">
+                        <a href="https://www.instagram.com/p/DAtGRPtuaAW/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">
+                            <img loading="lazy" src="IMAGEM/insta/INSTA-05.jpg" class="Carousel_Insta-image" alt="Dendista em Porto Alegre">
+                        </a>
+                    </div>
+                    <div class="col-12 col-sm-6 col-md-3 mb-4">
+                        <a href="https://www.instagram.com/p/C_OVvFquXq8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">
+                            <img loading="lazy" src="IMAGEM/insta/INSTA-06.jpg" class="Carousel_Insta-image" alt="Dendista em Porto Alegre">
+                        </a>
+                    </div>
+                    <div class="col-12 col-sm-6 col-md-3 mb-4">
+                        <a href="https://www.instagram.com/p/C51uzD8u_Va/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">
+                            <img loading="lazy" src="IMAGEM/insta/INSTA-07.jpg" class="Carousel_Insta-image" alt="Dendista em Porto Alegre">
+                        </a>
+                    </div>
+                    <div class="col-12 col-sm-6 col-md-3 mb-4">
+                        <a href="https://www.instagram.com/p/C3XsgBOuRc-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">
+                            <img loading="lazy" src="IMAGEM/insta/INSTA-08.jpg" class="Carousel_Insta-image" alt="Dendista em Porto Alegre">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Controles -->
+        <button class="Carousel_Insta-control prev">‹</button>
+        <button class="Carousel_Insta-control next">›</button>
+    </div>
+<script>
+    // Script de controle do carrossel
+    const carouselInner = document.querySelector('.Carousel_Insta-inner');
+    const items = document.querySelectorAll('.Carousel_Insta-item');
+    let currentIndex = 0;
+
+    // Função para avançar o slide
+    function nextSlide() {
+        if (currentIndex < items.length - 1) {
+            currentIndex++;
+        } else {
+            currentIndex = 0; // Volta ao primeiro slide
+        }
+        updateCarousel();
+    }
+
+    // Função para retroceder o slide
+    function prevSlide() {
+        if (currentIndex > 0) {
+            currentIndex--;
+        } else {
+            currentIndex = items.length - 1; // Vai para o último slide
+        }
+        updateCarousel();
+    }
+
+    // Atualiza a posição do carrossel
+    function updateCarousel() {
+        const offset = -currentIndex * 100;
+        carouselInner.style.transform = `translateX(${offset}%)`;
+    }
+
+    // Controles de navegação
+    document.querySelector('.next').addEventListener('click', nextSlide);
+    document.querySelector('.prev').addEventListener('click', prevSlide);
+
+    // Rotaçao automática
+    let autoSlideInterval = setInterval(nextSlide, 5000); // Avança o slide a cada 5 segundos
+
+    // Pausa a rotação automática quando o mouse está sobre o carrossel
+    const carousel = document.querySelector('.Carousel_Insta');
+    carousel.addEventListener('mouseenter', () => {
+        clearInterval(autoSlideInterval);
+    });
+
+    // Retoma a rotação automática quando o mouse sai do carrossel
+    carousel.addEventListener('mouseleave', () => {
+        autoSlideInterval = setInterval(nextSlide, 5000);
+    });
+
+    // Adaptação automática ao redimensionar
+    window.addEventListener('resize', updateCarousel);
+</script>    
+</section>
+    
+       
+    
+
+    <!-- Seção de Contato -->
+    <section class="contact container py-5" id="contato">
+        <h2 class="section-title display-5">Agende sua Consulta</h2>
+<div style="margin-left:10px; margin-right:10px;"  > 
+        <div class="row">     
+            <div class="col-md-6" style="margin-bottom:40px;">
+                <p><strong>Endereço:</strong> Av. Benjamin Constant, 904/801, Porto Alegre - RS, CEP: 90550-002</p>
+                <p><strong>Telefone:</strong> (51) 3342-3074</p>
+                <p><strong>WhatsApp:</strong> (51) 99150-1551</p>
+                <p><strong>Horários:</strong> Segunda a Sexta, das 8h às 12h e das 13h às 18h</p>
+                <p><strong>Responsável Técnico:</strong> Dra. Adriana B. Martins - CRO-RS 10092</p>
+                <div class="map-container mt-4">
+                    <iframe title="Dentista em Porto Alegre"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4885.996591444633!2d-51.19655140452757!3d-30.010415443965133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951979c28ac06c87%3A0xdefbce380dd15b15!2sOrali%20Cl%C3%ADnica%20Odontol%C3%B3gica%20Seu%20Dentista%20em%20Porto%20Alegre!5e0!3m2!1spt-BR!2sbr!4v1738646011702!5m2!1spt-BR!2sbr"
+        width="100%"
+        height="350"
+        style="border:0;"
+        allowfullscreen
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+        aria-label="Mapa da localização da Orali Clínica Odontológica Dentista em Porto Alegre">
+</iframe>
+                </div>
+            </div>
+            <div class="col-md-6">
+<!--inicio div formulário -->
+   <div class="container">
+        <h2>Contato</h2>
+    <noscript>
+        <p style="color: red; font-weight: bold;">Por favor, habilite o JavaScript para enviar o formulário.</p>
+    </noscript>
+        <form action="EMAIL/enviar_email.php" method="POST">
+            <div class="mb-3" style="padding-bottom:20px">
+                <label for="name" class="form-label">Nome:</label>
+                <input type="text" class="form-control" id="name" name="name" maxlength="100" autocomplete="off" required>
+            </div>
+            <div class="mb-3">
+                <label for="phone" class="form-label">Telefone:</label>
+                <input type="tel" class="form-control" id="phone" name="phone" maxlength="15" autocomplete="off" required>
+            </div>
+            <div class="mb-3">
+                <label for="email" class="form-label">E-mail:</label>
+                <input type="email" class="form-control" id="email" name="email" maxlength="255" autocomplete="off" required>
+            </div>
+            <div class="mb-3">
+                <label for="message" class="form-label">Mensagem:</label>
+                <textarea class="form-control" id="message" name="message" rows="5" maxlength="1000" required></textarea>
+                <!-- CAMPO ANTI-BOT -->
+                <label for="whatsapp" style="display:none;">Deixe este campo vazio:</label>
+                <input type="text" id="whatsapp" name="whatsapp" style="display:none;" tabindex="-1" autocomplete="off">
+            </div>
+            <button type="submit" class="btn btn-primary">Enviar</button>
+        </form>
+    </div>
+<!--fim div formulário-->                
+
+            </div>
+</div>
+        </div>
+       
+    </section>
+    
+   <!-- Seção de Perguntas Frequentes -->
+    <section class="container my-5">
+        <h2 class="text-center mb-4">Perguntas Frequentes</h2>
+        <div class="accordion" id="accordionFAQ">
+            <!-- Pergunta 1 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        1. O que é um implante dentário?
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionFAQ">
+                    <div class="accordion-body">
+                        O <strong>implante dentário</strong> é uma estrutura de titânio que substitui a raiz de um dente perdido. Ele é fixado no osso da mandíbula ou maxilar e serve de suporte para coroas, pontes ou próteses.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pergunta 2 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        2. Quanto tempo dura um tratamento de clareamento dental?
+                    </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionFAQ">
+                    <div class="accordion-body">
+                        O tratamento de <strong>clareamento dental</strong> pode durar de 2 a 4 semanas, dependendo do método utilizado e da tonalidade desejada. O clareamento feito em consultório é mais rápido, enquanto o caseiro pode levar mais tempo.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pergunta 3 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        3. O que é sistema de implante ALL on FOUR?
+                    </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionFAQ">
+                    <div class="accordion-body">
+                        <strong>ALL on FOUR</strong> é uma técnica que permite que um arco completo de dentes seja substituído, com apenas quatro implantes dentários. Pode ser usada para suportar uma ponte ou uma dentadura. Procedimento muitas vezes mais barato e mais rápido para executar em relação aos implantes dentários tradicionais , sendo capaz de aliviar a necessidade de enxerto ósseo em muitos casos.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pergunta 4 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFour">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        4. O que são facetas de porcelana?
+                    </button>
+                </h2>
+                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionFAQ">
+                    <div class="accordion-body">
+                        As facetas de porcelana são laminados finos de cerâmica que são colados na frente dos dentes para melhorar a aparência, corrigindo problemas como manchas, desgastes e pequenas falhas de alinhamento.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pergunta 5 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFive">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        5. Como funciona o tratamento de canal?
+                    </button>
+                </h2>
+                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionFAQ">
+                    <div class="accordion-body">
+                        O <strong>tratamento de canal</strong> consiste na remoção da polpa do dente (tecido interno) quando ela está infectada ou danificada. Após a remoção, o canal é limpo, preenchido e selado para evitar novas infecções.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pergunta 6 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSix">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                        6. O que é periodontia?
+                    </button>
+                </h2>
+                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionFAQ">
+                    <div class="accordion-body">
+                        A periodontia é a área da odontologia que trata das doenças da gengiva e dos tecidos de suporte dos dentes, como a gengivite e a periodontite. O tratamento inclui limpeza profunda e, em casos avançados, cirurgia.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pergunta 7 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSeven">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                        7. Quais são os benefícios da lente de contato dental?
+                    </button>
+                </h2>
+                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionFAQ">
+                    <div class="accordion-body">
+                        As lentes de contato dentais são usadas para corrigir pequenas imperfeições nos dentes, como manchas, desgastes e desalinhamentos. Elas são mais finas que as facetas e exigem menos desgaste do dente natural.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pergunta 8 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingEight">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                        8. O que é bichectomia?
+                    </button>
+                </h2>
+                <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionFAQ">
+                    <div class="accordion-body">
+                        A <strong>bichectomia</strong> é uma cirurgia para remover as bolsas de gordura da bochecha (bolas de Bichat). O procedimento é estético e ajuda a afinar o rosto, dando um aspecto mais definido.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pergunta 9 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingNine">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                        9. Como prevenir cáries?
+                    </button>
+                </h2>
+                <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionFAQ">
+                    <div class="accordion-body">
+                        Para prevenir cáries, é essencial manter uma boa higiene bucal, escovando os dentes pelo menos três vezes ao dia, usando fio dental e visitando o dentista regularmente. Evitar o consumo excessivo de açúcar também ajuda.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pergunta 10 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTen">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                        10. O que fazer em caso de emergência odontológica?
+                    </button>
+                </h2>
+                <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#accordionFAQ">
+                    <div class="accordion-body">
+                        Em caso de <strong>emergência odontológica</strong>, como dor intensa, fratura de dente ou sangramento, entre em contato imediatamente com seu dentista. Enquanto isso, evite mastigar no local afetado e aplique uma compressa fria para reduzir o inchaço.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>    
+ 
+    
+    
+<!-- Rodapé -->
+    <footer class="navbar-dark text-white py-4">
+        <div class="container">
+            <p>&copy; 2023 Orali Clínica Odontológica. Todos os direitos reservados.</p>
+            <p><a href="javascript:void(0);" rel="nofollow" class="voltar-ao-topo" onclick="scrollToTop()"><img loading="lazy" src="IMAGEM/topo.png" alt="Dentista em Porto Alegre"/></a></p>
+<p id="whatsmauro" class="copyright-amor"><a href="https://maurosilveira.com.br/" target="_blank">Feito com <img loading="lazy" src="IMAGEM/amor.png" alt="Dentista em Porto Alegre"/> por Mauro Silveira</a></p>
+            
+        </div>
+    </footer>
+
+<a rel="nofollow" id="b_whats" title="Atendente disponível no WhatsApp."  href="https://wa.me/5551991501551?text=Achei%20a%20Cl%C3%ADnica%20Orali%20no%20Google.%0AGostaria%20de%20mais%20informa%C3%A7%C3%B5es%20e%20como%20agendar%20uma%20avalia%C3%A7%C3%A3o." target="_blank"><img loading="lazy" alt="Dendista em Porto Alegre" src="IMAGEM/contatowhats2.png" width="74px" height="67px" /></a>    
+
+    <!-- Bootstrap JS e dependências -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
+
+    <!-- JavaScript personalizado (opcional) -->
+    <script>
+        // Exemplo de script para interatividade
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    
+
+window.addEventListener("scroll", () => {
+  if (window.scrollY > 100) {
+	document.querySelector(".voltar-ao-topo").style.display = "block";
+
+
+  } else {
+	document.querySelector(".voltar-ao-topo").style.display = "none";
+  }
+
+}); 
+
+ 
+
+ const scrollToTop = () => {
+ window.scrollTo({
+top: 0,
+behavior: 'smooth'
+ })
+} 
+function Linck_Whats() {window.open('https://wa.me/5551991501551?text=Achei%20a%20Cl%C3%ADnica%20Orali%20no%20Google.%0AGostaria%20de%20mais%20informa%C3%A7%C3%B5es%20e%20como%20agendar%20uma%20avalia%C3%A7%C3%A3o.', '_blank')}
+
+document.getElementById("b_whats").style.cursor = "pointer";
+    </script>
+
+
+
+<script src="EMAIL/checkconditions.js"></script>
+<script src="EMAIL/validar_campos.js"></script>
+    
+</body>
+</html>

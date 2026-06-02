@@ -50,19 +50,19 @@ export const CLINIC = {
       "id": "implante-dentario",
       "name": "Implante Dentário",
       "desc": "Solução completa para reabilitação oral.",
-      "img": "https://orali.com.br/wordpress/IMAGEM/implante-dentario.jpg"
+      "img": "/img/implante-dentario-f3ee19.jpg"
     },
     {
       "id": "facetas-porcelana",
       "name": "Facetas & All-on-Four",
       "desc": "Estética dental e reabilitação completa em arco.",
-      "img": "https://orali.com.br/wordpress/IMAGEM/All-on-Four.jpg"
+      "img": "/img/All-on-Four-f92f6d.jpg"
     },
     {
       "id": "clareamento",
       "name": "Clareamento Dental",
       "desc": "Sorriso mais branco e brilhante em protocolo clínico.",
-      "img": "https://orali.com.br/wordpress/IMAGEM/Clareamento-Dental.jpg"
+      "img": "/img/Clareamento-Dental-103ef4.jpg"
     }
   ],
   "history": {
@@ -107,24 +107,24 @@ export const CLINIC = {
     }
   ],
   "images": {
-    "hero": "https://orali.com.br/wordpress/IMAGEM/2-google-GMN-1200x1200.jpg",
+    "hero": "/img/2-google-GMN-1200x1200-ee4478.jpg",
     "procedures": {
-      "implante-dentario": "https://orali.com.br/wordpress/IMAGEM/implante-dentario.jpg",
-      "facetas-porcelana": "https://orali.com.br/wordpress/IMAGEM/All-on-Four.jpg",
-      "clareamento": "https://orali.com.br/wordpress/IMAGEM/Clareamento-Dental.jpg"
+      "implante-dentario": "/img/implante-dentario-f3ee19.jpg",
+      "facetas-porcelana": "/img/All-on-Four-f92f6d.jpg",
+      "clareamento": "/img/Clareamento-Dental-103ef4.jpg"
     },
     "testimonials": {
-      "Andre Lumertz": "https://orali.com.br/wordpress/IMAGEM/Andre-Lumertz.jpg",
-      "Carla Fabbrin": "https://orali.com.br/wordpress/IMAGEM/Carla-Fabbrin.jpg",
-      "Ricardo Moreira": "https://orali.com.br/wordpress/IMAGEM/Ricardo-Moreira.jpg"
+      "Andre Lumertz": "/img/Andre-Lumertz-cbbd5f.jpg",
+      "Carla Fabbrin": "/img/Carla-Fabbrin-380b06.jpg",
+      "Ricardo Moreira": "/img/Ricardo-Moreira-3f7a5b.jpg"
     },
     "insta_feed": [
-      "https://orali.com.br/wordpress/IMAGEM/insta/INSTA-011.jpg",
-      "https://orali.com.br/wordpress/IMAGEM/insta/INSTA-021.jpg",
-      "https://orali.com.br/wordpress/IMAGEM/insta/INSTA-031.jpg",
-      "https://orali.com.br/wordpress/IMAGEM/insta/INSTA-041.jpg",
-      "https://orali.com.br/wordpress/IMAGEM/insta/INSTA-05.jpg",
-      "https://orali.com.br/wordpress/IMAGEM/insta/INSTA-06.jpg"
+      "/img/INSTA-011-459f6a.jpg",
+      "/img/INSTA-021-1df7e9.jpg",
+      "/img/INSTA-031-76305e.jpg",
+      "/img/INSTA-041-eaa415.jpg",
+      "/img/INSTA-05-27007d.jpg",
+      "/img/INSTA-06-b0cc24.jpg"
     ]
   }
 } as const;
