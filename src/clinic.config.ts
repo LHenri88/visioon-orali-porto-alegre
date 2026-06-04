@@ -50,19 +50,19 @@ export const CLINIC = {
       "id": "implante-dentario",
       "name": "Implante Dentário",
       "desc": "Solução completa para reabilitação oral.",
-      "img": "/img/implante-dentario-f3ee19.jpg"
+      "img": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=600&q=80"
     },
     {
       "id": "facetas-porcelana",
       "name": "Facetas & All-on-Four",
       "desc": "Estética dental e reabilitação completa em arco.",
-      "img": "/img/All-on-Four-f92f6d.jpg"
+      "img": "https://images.unsplash.com/photo-1606265752439-1f18756aa5fc?w=600&q=80"
     },
     {
       "id": "clareamento",
       "name": "Clareamento Dental",
       "desc": "Sorriso mais branco e brilhante em protocolo clínico.",
-      "img": "/img/Clareamento-Dental-103ef4.jpg"
+      "img": "https://images.unsplash.com/photo-1601662528567-526cd06f6582?w=600&q=80"
     }
   ],
   "history": {
@@ -107,24 +107,24 @@ export const CLINIC = {
     }
   ],
   "images": {
-    "hero": "/img/2-google-GMN-1200x1200-ee4478.jpg",
+    "hero": "https://images.unsplash.com/photo-1606811841689-23dfddce3e18?w=800&q=80",
     "procedures": {
-      "implante-dentario": "/img/implante-dentario-f3ee19.jpg",
-      "facetas-porcelana": "/img/All-on-Four-f92f6d.jpg",
-      "clareamento": "/img/Clareamento-Dental-103ef4.jpg"
+      "implante-dentario": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=600&q=80",
+      "facetas-porcelana": "https://images.unsplash.com/photo-1606265752439-1f18756aa5fc?w=600&q=80",
+      "clareamento": "https://images.unsplash.com/photo-1601662528567-526cd06f6582?w=600&q=80"
     },
     "testimonials": {
-      "Andre Lumertz": "/img/Andre-Lumertz-cbbd5f.jpg",
-      "Carla Fabbrin": "/img/Carla-Fabbrin-380b06.jpg",
-      "Ricardo Moreira": "/img/Ricardo-Moreira-3f7a5b.jpg"
+      "Andre Lumertz": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+      "Carla Fabbrin": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
+      "Ricardo Moreira": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80"
     },
     "insta_feed": [
-      "/img/INSTA-011-459f6a.jpg",
-      "/img/INSTA-021-1df7e9.jpg",
-      "/img/INSTA-031-76305e.jpg",
-      "/img/INSTA-041-eaa415.jpg",
-      "/img/INSTA-05-27007d.jpg",
-      "/img/INSTA-06-b0cc24.jpg"
+      "https://images.unsplash.com/photo-1588776814546-1ffbb172d4de?w=400&q=80",
+      "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=400&q=80",
+      "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?w=400&q=80",
+      "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=400&q=80",
+      "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?w=400&q=80",
+      "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=400&q=80"
     ]
   }
 } as const;
