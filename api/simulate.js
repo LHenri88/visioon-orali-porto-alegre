@@ -18,9 +18,17 @@ export default async function handler(req, res) {
   try {
     const ai = new GoogleGenAI({ apiKey });
     const response = await ai.models.generateContent({
-      model: 'gemini-3.1-flash-image-preview',
+      model: 'gemini-2.0-flash-preview-image-generation',
       contents: { parts: [{ inlineData: { data: userB64, mimeType: userMime } }, { text: fullPrompt }] },
     });
     return res.status(200).json({ ok: true, clinic: CLINIC.name, procedure, response });
-  } catch (err) { return res.status(500).json({ error: err.message }); }
+  } catch (err) {
+    // Parse Gemini API errors
+    const msg = err.message || '';
+    const isQuota = msg.includes('429') || msg.includes('RESOURCE_EXHAUSTED') || msg.includes('quota') || msg.includes('credits');
+    if (isQuota) {
+      return res.status(503).json({ error: 'QUOTA_EXCEEDED', userMessage: 'O simulador está temporariamente indisponível por limite de uso. Agende uma consulta para ver o resultado ao vivo com nossa equipe!' });
+    }
+    return res.status(500).json({ error: err.message });
+  }
 }
