@@ -40,9 +40,8 @@ export default function Simulator() {
         setPhase('quota'); return;
       }
       if (!r.ok) throw new Error(j.error || 'Erro do servidor');
-      const parts = j?.response?.candidates?.[0]?.content?.parts || [];
-      const img = parts.find((p:any)=>p.inlineData)?.inlineData;
-      if (!img) throw new Error('Sem imagem na resposta.');
+      const img = j?.image;
+      if (!img?.data) throw new Error('Sem imagem na resposta.');
       setResult(`data:${img.mimeType};base64,${img.data}`); setPhase('done');
     } catch (e:any) { setErr(e.message); setPhase('error'); }
   }
