@@ -62,7 +62,7 @@ export const CLINIC = {
       "id": "clareamento",
       "name": "Clareamento Dental",
       "desc": "Sorriso mais branco e brilhante em protocolo clínico.",
-      "img": "https://images.unsplash.com/photo-1601662528567-526cd06f6582?w=600&q=80"
+      "img": "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?w=600&q=80"
     }
   ],
   "history": {
@@ -107,11 +107,11 @@ export const CLINIC = {
     }
   ],
   "images": {
-    "hero": "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=800&q=80",
+    "hero": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800&q=80",
     "procedures": {
       "implante-dentario": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=600&q=80",
       "facetas-porcelana": "https://images.unsplash.com/photo-1606265752439-1f18756aa5fc?w=600&q=80",
-      "clareamento": "https://images.unsplash.com/photo-1601662528567-526cd06f6582?w=600&q=80"
+      "clareamento": "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?w=600&q=80"
     },
     "testimonials": {
       "Andre Lumertz": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
@@ -119,12 +119,12 @@ export const CLINIC = {
       "Ricardo Moreira": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80"
     },
     "insta_feed": [
-      "https://images.unsplash.com/photo-1601662528567-526cd06f6582?w=400&q=80",
+      "https://images.unsplash.com/photo-1606265752439-1f18756aa5fc?w=400&q=80",
       "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=400&q=80",
       "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?w=400&q=80",
       "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=400&q=80",
       "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?w=400&q=80",
-      "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=400&q=80"
+      "https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=400&q=80"
     ]
   }
 } as const;
