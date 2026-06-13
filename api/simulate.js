@@ -1,7 +1,7 @@
 const PROCEDURE_PROMPTS = {
-  "implante-dentario": "Realistic dental implant simulation. Fill missing teeth gaps with anatomically correct prosthetic crowns matching the surrounding teeth in shade, shape and alignment. Respect natural occlusion and arch curve. PRESERVE: gum tissue, lip support, smile line, all facial features. Photorealistic output.",
-  "facetas-porcelana": "Realistic dental aesthetic preview. Render natural-looking porcelain veneers on the front upper teeth (canine to canine). Maintain perfect tooth proportions (golden ratio, central incisor slightly dominant), translucent enamel edges, subtle texture, natural gum line. PRESERVE: lip shape, skin tone, facial features, lighting. DO NOT whiten artificially — target a natural BL2-BL3 shade. Output as a photorealistic before/after of the SAME person.",
-  "clareamento": "Professional teeth whitening simulation. Move teeth shade up by 3-4 tabs on the Vita scale to a natural BL2 tone, preserving micro-texture and translucency. PRESERVE: gums, lips, skin, lighting. Avoid bleached/painted look."
+  "implante-dentario": "BEFORE→AFTER clinical simulation. The input photo is the BEFORE state showing missing teeth. Render the AFTER state of the SAME person with dental implant crowns in place. VISIBLE CHANGES: missing tooth gaps are filled with natural-looking porcelain crowns matching the shade, size and shape of surrounding teeth; the smile looks complete and healthy. PRESERVE EXACTLY: same face, skin tone, gum color, lip shape, eye color, hair, expression, background. Only the missing teeth are now present. Ultra-photorealistic portrait showing a natural smile.",
+  "facetas-porcelana": "BEFORE→AFTER clinical simulation. The input photo is the BEFORE state. Render the AFTER state of the SAME person with professional porcelain veneers. VISIBLE CHANGES: all 8 upper front teeth are visibly transformed — bright white (shade A1/BL1), perfectly shaped with natural translucency at the edges; the smile is dramatically improved and beautiful. PRESERVE EXACTLY: same face, gum line, lip position and shape, skin tone, eyes, hair, expression, background. Only tooth color and shape changed. Ultra-photorealistic portrait clearly showing the smile.",
+  "clareamento": "BEFORE→AFTER clinical simulation. The input photo is the BEFORE state. Render the AFTER state of the SAME person after professional in-office teeth whitening. VISIBLE CHANGES: teeth are noticeably whiter (3-4 shades brighter, uniform), healthy shine, radiant smile — natural-looking white, not artificial. PRESERVE EXACTLY: same tooth shape, alignment, gum line, lips, face, skin tone, eyes, hair, expression, background. Only tooth color changed. Ultra-photorealistic portrait clearly showing the brighter smile."
 };
 const CLINIC = { slug: 'orali-porto-alegre', name: "Orali Clínica Odontológica", tone: "Acolhedor-experiente, gaúcho discreto. Mistura tradição (30+ anos) com modernidade." };
 
@@ -18,7 +18,7 @@ export default async function handler(req, res) {
     const form = new FormData();
     form.append('model', 'gpt-image-2');
     form.append('prompt', fullPrompt);
-    form.append('quality', 'medium');
+    form.append('quality', 'high');
     // retrato 1024x1536 — classe Full HD (~1.6MP), formato adequado a fotos frontais
     form.append('size', '1024x1536');
     form.append('image', new Blob([Buffer.from(userB64, 'base64')], { type: userMime || 'image/png' }), 'photo.png');
